@@ -3,8 +3,12 @@
 
 
 <p>Live Demo</p>
-<p>Frontend live sever - https://help-center-frontend-ryos.vercel.app/</p>
-<p>Backend live server - https://helpcenter-backend-3.onrender.com/</p>
+<p>Frontend live sever - https://smoke-trees-frontend.vercel.app/</p>
+<p>Backend live server - https://smoketrees-backend.onrender.com//</p>
+
+<p>*note- frontend link when opened takes one min to load.</p>
+
+<p>login details=> email-mano@gmail.com  , password: mano123</p>
 
 
 
